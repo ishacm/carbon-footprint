@@ -81,9 +81,9 @@ The **Carbon Footprint Tracking App** is designed to help users measure and redu
 ---
 
 ## Results:
-![WhatsApp Image 2025-01-06 at 23 02 03_8ee87a3d](https://github.com/user-attachments/assets/982ca5e6-9464-403b-9500-3bf8fab8c7e4)
+![result2](https://github.com/user-attachments/assets/d887d009-321b-463c-9fed-79c1fe187676)
 
-![WhatsApp Image 2025-01-06 at 23 02 03_14b690b8](https://github.com/user-attachments/assets/534fd7aa-6cc7-44a3-8cba-723991651d22)
+![result1](https://github.com/user-attachments/assets/d4411939-5bc6-4ce4-b4c0-907cd400044b)
 
 ---
 
